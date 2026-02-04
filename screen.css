@@ -1,4 +1,33 @@
 /* Add screen styles below */
-a.active {
+body {
+    background: #FEFFFE;
+    margin: 0;
+} 
+
+.nav {
+    margin: 0 auto;
+    background: #1E2D2F;
+    color: #FEFFFE;
+    font-family: Arial;
+    font-size: 64px;
     font-weight: bold;
+    padding: 25px;
+}
+
+p {
+    margin: 0;
+}
+
+h1 {
+    color: #F54F13;
+    font-family: Arial;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.info {
+    margin: 0 auto;
+    padding-top:113px;
+    width: 900px;
 }
