@@ -4,21 +4,25 @@ body {
     margin: 0;
 } 
 
-.nav {
+header {
     margin: 0 auto;
     background: #1E2D2F;
+    padding: 25px;
+}
+
+h1 {
+    margin: 0 auto;
     color: #FEFFFE;
     font-family: Arial;
-    font-size: 64px;
+    font-size: 60px;
     font-weight: bold;
-    padding: 25px;
 }
 
 p {
     margin: 0;
 }
 
-h1 {
+h2 {
     color: #F54F13;
     font-family: Arial;
     font-size: 64px;
@@ -28,6 +32,10 @@ h1 {
 
 .info {
     margin: 0 auto;
-    padding-top:113px;
+    padding-top:50px;
     width: 900px;
+}
+
+img {
+    height: 240px;
 }
