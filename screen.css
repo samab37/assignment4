@@ -13,13 +13,16 @@ header {
 h1 {
     margin: 0 auto;
     color: #FEFFFE;
-    font-family: Arial;
+    font-family: "Brush Script MT", cursive, Arial, sans-serif;
     font-size: 60px;
     font-weight: bold;
 }
 
 p {
-    margin: 0;
+    margin: 0 auto;
+    font-family: Arial;
+    font-size: 24px;
+    Padding-top: 10px;
 }
 
 h2 {
@@ -30,6 +33,13 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    margin: 0 auto;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+}
+
 .info {
     margin: 0 auto;
     padding-top:50px;
@@ -38,4 +48,15 @@ h2 {
 
 img {
     height: 240px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.project {
+    width: 900px;
+    margin: 0 auto;
+    color: #1E2D2F;
+    font-family: Arial;
+    padding-top: 20px;
 }
