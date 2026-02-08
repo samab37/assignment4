@@ -47,10 +47,15 @@ h3 {
 }
 
 img {
-    height: 240px;
-    float: left;
-    margin-right: 20px;
-    margin-bottom: 30px;
+    max-width: 100%;
+    height: auto;
+}
+
+.project img {
+  height: 240px;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 30px;
 }
 
 .project {
